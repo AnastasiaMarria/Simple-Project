@@ -19,8 +19,8 @@ JavaScript: Adds interactivity, specifically for theme switching.
 CSS Variables: Used to manage theme colors.
 
 # Project Structure
-index.html: The main HTML file containing the structure of the app.
+'index.html': The main HTML file containing the structure of the app.
 
-main.css: CSS file for styling and theme management.
+'main.css': CSS file for styling and theme management.
 
-app.js: JavaScript file handling the theme switch functionality
+'app.js': JavaScript file handling the theme switch functionality
